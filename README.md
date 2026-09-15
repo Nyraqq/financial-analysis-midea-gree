@@ -74,10 +74,10 @@ financial-analysis-midea-gree/
     └── 财务分析项目报告.pdf
 ```
 
-文件说明
-financial_analysis.sql：SQLite项目中使用的SQL代码，包括数据整理、视图创建及相关财务指标计算。
-financial_analysis.xlsx：财务指标计算及分析结果。
-财务分析项目报告.pdf：项目完整分析报告。
+### 文件说明
+- financial_analysis.sql：SQLite项目中使用的SQL代码，包括数据整理、视图创建及相关财务指标计算。
+- financial_analysis.xlsx：财务指标计算及分析结果。
+- 财务分析项目报告.pdf：项目完整分析报告。
 ## 七、主要结论
 通过2021—2025年的财务数据比较可以发现：
 美的集团营业收入和资产规模持续扩张，规模增长较为稳定。
