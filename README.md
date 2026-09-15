@@ -68,10 +68,8 @@ Excel结果整理
 financial-analysis-midea-gree/
 ├── README.md
 ├── financial_analysis.sql
-├── result/
-│   └── financial_analysis.xlsx
-└── report/
-    └── 财务分析项目报告.pdf
+├── financial_analysis.xlsx
+└── 财务分析项目报告.pdf
 ```
 
 ### 文件说明
