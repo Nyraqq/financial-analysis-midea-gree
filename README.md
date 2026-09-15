@@ -72,6 +72,7 @@ financial-analysis-midea-gree/
 │   └── financial_analysis.xlsx
 └── report/
     └── 财务分析项目报告.pdf
+```
 
 文件说明
 financial_analysis.sql：SQLite项目中使用的SQL代码，包括数据整理、视图创建及相关财务指标计算。
