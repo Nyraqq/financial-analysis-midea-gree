@@ -13,7 +13,7 @@
 - 偿债能力分析
 - 杜邦分析
 
-项目使用SQLite和SQL对财务数据进行整理、计算，并将最终分析结果整理至Excel，同时形成财务分析报告。
+项目使用SQLite和SQL对财务数据进行整理、计算，将最终分析结果整理至Excel，并使用Python(Pandas、Matplotlib)进行数据分析与可视化，同时形成财务分析报告。
 
 ## 二、数据来源
 
@@ -24,6 +24,8 @@
 - SQLite
 - SQL
 - Excel
+- Pandas
+- Matplotlib
 - GitHub
 
 ## 四、项目流程
@@ -36,6 +38,8 @@ SQL创建视图与计算财务指标
 ↓  
 Excel结果整理  
 ↓  
+Matplotlib可视化
+↓
 财务分析报告
 
 ## 五、主要财务指标
