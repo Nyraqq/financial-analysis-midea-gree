@@ -70,16 +70,40 @@ Matplotlib可视化
 
 ```text
 financial-analysis-midea-gree/
+│
 ├── README.md
-├── financial_analysis.sql
-├── financial_analysis.xlsx
-└── 财务分析项目报告.pdf
+│
+├── data/
+│   └── financial_analysis.xlsx
+│
+├── sql/
+│   └── financial_analysis.sql
+│
+├── python/
+│   └── python_analysis.ipynb
+│
+├── figures/
+│   ├── ROE.png
+│   ├── 净利率.png
+│   ├── 权益乘数.png
+│   ├── 杜邦分析四视图.png
+│   ├── 毛利率.png
+│   ├── 流动比率.png
+│   ├── 资产周转率.png
+│   ├── 资产负债率.png
+│   └── 速动比率.png
+│
+└── report/
+    └── 财务分析项目报告.pdf
 ```
 
 ### 文件说明
 - `financial_analysis.sql`：SQLite项目中使用的SQL代码，包括数据整理、视图创建及相关财务指标计算。
 - `financial_analysis.xlsx`：财务指标计算及分析结果。
-- `财务分析项目报告.pdf`：项目完整分析报告。
+- `python_analysis.ipynb`：Python可视化过程中使用的代码
+- `figures`：存放数据可视化结果的文件夹
+-  `财务分析项目报告.pdf`：项目完整分析报告。
+  
 ## 七、主要结论
 通过2021—2025年的财务数据比较可以发现：
 - 美的集团营业收入和资产规模持续扩张，规模增长较为稳定。
